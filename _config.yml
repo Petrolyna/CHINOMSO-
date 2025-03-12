@@ -3,3 +3,11 @@ logo: github jpgg.jpg
 description: Data Analyst
 show_downloads: false
 theme: jekyll-theme-minimal
+markdown: kramdown
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Link custom dark mode CSS
+include: ["assets/css/style.css"]
