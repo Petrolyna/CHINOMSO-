@@ -1,15 +1,13 @@
-# Chinomso Asikogu-Data Analyst
+# Chinomso Asikogu
 Welcome to my Portfolio
 
 ## ABOUT ME 
-Hi, I'm **Chinomso Asikogu**, a **Data Analyst** passionate about transforming raw data into actionable insights.  
-I specialize in **data cleaning, exploration, and visualization** to help businesses make informed decisions.With a background in **finance, business analytics, and data analysis**, I enjoy working with datasets to uncover trends and patterns.  
-I'm proficient in tools like **SQL, Excel, Tableau, and Power BI**, and I’m continuously improving my **Python** skills.
-🔎 I love solving complex problems using data and helping organizations optimize their processes through **data-driven strategies** 
+Hi, I'm **Chinomso Asikogu**, a Data Analyst passionate about transforming raw data into actionable insights.  
+I specialize in data cleaning, exploration, and visualization to help businesses make informed decisions.With a background in finance, business analytics, and data analysis, I enjoy working with datasets to uncover trends and patterns.  
+I'm proficient in tools like SQL, Excel, Tableau, and Power BI, and I’m continuously improving my Python skills.
 
-### EDUCATION
-MBA in Finance
-BSC,Accounting
+🔎 I love solving complex problems using data and helping organizations optimize their processes through data-driven strategies 
+
 
 ### PROJECTS
 Here are some of the data projects I’ve worked on:
