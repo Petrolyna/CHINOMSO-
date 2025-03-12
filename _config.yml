@@ -10,4 +10,4 @@ plugins:
   - jekyll-seo-tag
 
 # Link custom dark mode CSS
-include: ["assets/css/style.css."]
+include: ["assets/css/style.css,"]
