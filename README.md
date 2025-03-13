@@ -16,7 +16,7 @@ Here are some of the data projects I’ve worked on:
 🚲 A case study exploring bike-share user behaviors in Chicago.  
 - **Data Cleaning & Exploration:** SQL, Excel  
 - **Visualization:** Tableau  
-- **Key Insights:** Identified customer trends to optimize marketing strategies.  
+ 🔗 **[View Project](https://github.com/Petrolyna/cyclistic-bike-analysis)**   
 🔗 **[View Dashboard](https://public.tableau.com/app/profile/chinomso.asikogu/viz/FINALCYCLISTICTRENDVIZ/Dashboard1)**
 
 
