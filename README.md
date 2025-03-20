@@ -4,13 +4,15 @@ Welcome to my Portfolio
 ## ABOUT ME 
 Hi, I'm **Chinomso Asikogu**, an aspiring Data Analyst passionate about transforming raw data into actionable insights.  
 I specialize in data cleaning, exploration, and visualization to help businesses make informed decisions.With a background in finance, business analytics, and data analysis, I enjoy working with datasets to uncover trends and patterns.  
-I'm proficient in tools like SQL, Excel, Tableau, and Power BI, and I’m continuously improving my Python skills.
+I'm proficient in tools like SQL, Excel, and Tableau, and I’m continuously improving my Power Bi & Python skills.
+I love solving complex problems using data and helping organizations optimize their processes through data-driven strategies
 
-🔎 I love solving complex problems using data and helping organizations optimize their processes through data-driven strategies 
+💼 I'm **open to job opportunities** where I can apply and grow my skills in a professional setting. 
 
 
 ### PROJECTS
-Here are some of the data projects I’ve worked on: 🚀 *(Work in Progress)*
+My projects showcase my journey in **SQL, Excel, Tableau, and data analysis** as I refine my expertise.
+Here are some of the data projects I’ve worked on:
 
 ### **1️⃣ Cyclistic Bike Share Analysis**  
 🚲 A case study exploring bike-share user behaviors in Chicago.  
@@ -21,10 +23,10 @@ Here are some of the data projects I’ve worked on: 🚀 *(Work in Progress)*
 
 ### **2️⃣ Walmart Sales Analysis**
 - **Goal:** Analyzing Walmart's sales trends, CPI, unemployment rate, and fuel price effects.  
-- **Data Cleaning & Exploration:** SQL (BigQuery),  
+- **Data Cleaning & Exploration:** SQL (BigQuery), Excel
 - **Visualization:** Tableau
-🔗 **[View Project](https://github.com/Petrolyna/walmart_sales_analysis)**   
-🔗 **[View Dashboard](https://public.tableau.com/app/profile/chinomso.asikogu/viz/Walmartsales_17424263693840/Dashboard1#1)**
+  🔗 **[View Project](https://github.com/Petrolyna/walmart_sales_analysis)**   
+ 🔗 **[View Dashboard](https://public.tableau.com/app/profile/chinomso.asikogu/viz/Walmartsales_17424263693840/Dashboard1#1)**
 ---
 
 ## 🛠 Skills  
@@ -41,5 +43,5 @@ Here are some of the tools and technologies I use:
 🔗 LinkedIn: [linkedin.com/in/chinomsoasikogu](https://linkedin.com/in/chinomso-asikogu-68a74a162)  
 💻 GitHub: [github.com/chinomsoasikogu](https://github.com/chinomsoasikogu)  
 
-💼 Open to job opportunities | Let's connect!  
+ | Let's connect!  
 ---  
