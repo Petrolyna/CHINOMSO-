@@ -2,7 +2,7 @@
 Welcome to my Portfolio
 
 ## ABOUT ME 
-Hi, I'm **Chinomso Asikogu**, a Data Analyst passionate about transforming raw data into actionable insights.  
+Hi, I'm **Chinomso Asikogu**, an aspiring Data Analyst passionate about transforming raw data into actionable insights.  
 I specialize in data cleaning, exploration, and visualization to help businesses make informed decisions.With a background in finance, business analytics, and data analysis, I enjoy working with datasets to uncover trends and patterns.  
 I'm proficient in tools like SQL, Excel, Tableau, and Power BI, and I’m continuously improving my Python skills.
 
@@ -10,16 +10,21 @@ I'm proficient in tools like SQL, Excel, Tableau, and Power BI, and I’m contin
 
 
 ### PROJECTS
-Here are some of the data projects I’ve worked on:
+Here are some of the data projects I’ve worked on: 🚀 *(Work in Progress)*
 
-### **📌 Cyclistic Bike Share Analysis**  
+### **1️⃣ Cyclistic Bike Share Analysis**  
 🚲 A case study exploring bike-share user behaviors in Chicago.  
 - **Data Cleaning & Exploration:** SQL, Excel  
 - **Visualization:** Tableau  
  🔗 **[View Project](https://github.com/Petrolyna/cyclistic-bike-analysis)**   
 🔗 **[View Dashboard](https://public.tableau.com/app/profile/chinomso.asikogu/viz/FINALCYCLISTICTRENDVIZ/Dashboard1)**
 
-
+### **2️⃣ Walmart Sales Analysis**
+- **Goal:** Analyzing Walmart's sales trends, CPI, unemployment rate, and fuel price effects.  
+- **Data Cleaning & Exploration:** SQL (BigQuery),  
+- **Visualization:** Tableau
+🔗 **[View Project](https://github.com/Petrolyna/walmart_sales_analysis)**   
+🔗 **[View Dashboard](https://public.tableau.com/app/profile/chinomso.asikogu/viz/Walmartsales_17424263693840/Dashboard1#1)**
 ---
 
 ## 🛠 Skills  
@@ -36,4 +41,5 @@ Here are some of the tools and technologies I use:
 🔗 LinkedIn: [linkedin.com/in/chinomsoasikogu](https://linkedin.com/in/chinomso-asikogu-68a74a162)  
 💻 GitHub: [github.com/chinomsoasikogu](https://github.com/chinomsoasikogu)  
 
----
+💼 Open to job opportunities | Let's connect!  
+---  
